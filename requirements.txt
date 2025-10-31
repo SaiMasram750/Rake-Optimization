@@ -1,3 +1,6 @@
 streamlit
 pandas
 pulp
+streamlit_option_menu
+matplotlib
+plotly
